@@ -1,7 +1,7 @@
 # python菜鸡教程
 
 ## 课程简介
-> 瞎录着玩
+> 瞎录着玩，更新ing
 
 课程依托于大佬文字版教程[廖雪峰python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)进行理解与讲述
 
